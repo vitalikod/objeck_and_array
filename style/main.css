@@ -1,0 +1,22 @@
+.wrapper {
+  height: 100%;
+  width: 100%;
+  background-color: tomato;
+}
+
+.wrapper .card1 {
+  height: 400px;
+  width: 250px;
+  margin: 0 auto;
+  background-color: aqua;
+}
+
+.wrapper .name_item {
+  margin: 0 auto;
+}
+
+.wrapper .name_item .vertical_centr {
+  padding-left: 715px;
+  padding-top: 30px;
+}
+/*# sourceMappingURL=main.css.map */

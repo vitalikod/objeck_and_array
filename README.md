@@ -1,1 +1,0 @@
-# objeck_and_array
